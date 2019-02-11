@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matissewifi/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/samsung/matissewifi/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/samsung/matissewifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/matissewifi/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/matissewifi/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/matissewifi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/matissewifi/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
