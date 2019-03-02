@@ -31,5 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matissewifi/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so
+    vendor/samsung/matissewifi/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
+	vendor/samsung/matissewifi/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so
     
