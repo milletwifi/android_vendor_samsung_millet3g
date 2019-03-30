@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),matissewifi)
+ifeq ($(TARGET_DEVICE),matisse3g)
 
 endif
