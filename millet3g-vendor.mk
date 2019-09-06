@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/millet3g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/millet3g/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/millet3g/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/millet3g/proprietary/lib/hw/vibrator.default.so:lib/hw/vibrator.default.so \
+    vendor/samsung/millet3g/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
     vendor/samsung/millet3g/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/millet3g/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/millet3g/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so
